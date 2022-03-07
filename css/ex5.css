@@ -1,0 +1,8 @@
+.divisible-by-four {
+    background-color: lightblue;
+}
+
+table, tr, td {
+    text-align: center;
+    border: 1px solid #000;
+}
